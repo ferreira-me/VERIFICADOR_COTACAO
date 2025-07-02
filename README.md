@@ -17,5 +17,10 @@ A interface é simples, via navegador, utilizando [Streamlit](https://streamlit.
 
 ---
 
+
 ## 🛠️ Instalação e Uso
 
+1. **Clone o repositório:**
+   ```bash
+   git clone (https://github.com/ferreira-me/VERIFICADOR_COTACAO.git)
+   cd nome-do-repo
